@@ -1,0 +1,20 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javithor360/sandbox.git"
+  },
+  "keywords": [],
+  "author": "Javithor360",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javithor360/sandbox/issues"
+  },
+  "homepage": "https://github.com/Javithor360/sandbox#readme"
+}
